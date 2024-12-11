@@ -12,10 +12,11 @@
 	<groupId>com.example.manage.library</groupId>
 	<artifactId>LibraryManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>LibraryManagement</name>
 	<description>Library Management System</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
